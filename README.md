@@ -1,7 +1,7 @@
 BCPicker
 ======
 
-BCPicker is a Custom Picker which enables UIPickerView to develop iOS Apps. You can just import the BCPicker class or import using Cocoapods & with few lines of code you can use UIPickerView.
+BCPicker is a Custom Picker which enables UIPickerView to develop iOS Apps. You can just import the BCPicker class or import using CocoaPods & with few lines of code you can use UIPickerView.
 
 ### Installation with CocoaPods
 
